@@ -1,5 +1,4 @@
 # Online-Shop-Database
-## What it does
 An online shop database management code written with **Python** and **SQLite3** and the UI created with **prettyTable**. This was done as a final project for my university's database course.
 
 Navigating the database is done through a simple and sleek UI (run on the terminal), by entering numbers correlating to an action, along with a "back" option in every scenario to minimize restarting from the beginning of the tree.
