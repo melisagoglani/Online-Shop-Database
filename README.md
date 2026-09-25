@@ -16,6 +16,4 @@ Signing in as a seller enables you to add new products to the database, and dele
 2. Run OnlineShop.py
 3. Choose from the actions displayed by entering the number next to it
 
-## The UI
-<img width="490" height="341" alt="Screenshot" src="https://github.com/user-attachments/assets/81e64528-6509-4792-b507-03cb3b66016f" />
 
